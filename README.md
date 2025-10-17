@@ -1,4 +1,44 @@
-![01d38aca-f40d-4974-a6cf-d980ae96e57f](https://github.com/user-attachments/assets/a6ac4298-d6cb-419c-8e1d-703914b44430)
-![ab8c6316-f737-469e-aaf5-92842d1bfc4d](https://github.com/user-attachments/assets/14db8708-ecde-49e6-b627-86464e9f27af)
-![34e44820-e61e-4450-803d-2b4246139173](https://github.com/user-attachments/assets/d4fcaa74-3e5d-49cb-b389-d5c53554bbd6)
-![eb881955-59eb-4d72-88e3-23a921762327](https://github.com/user-attachments/assets/79d6f7b3-aa7f-482a-8666-9b811ae8faf5)
+#FIREBASE
+<img width="1023" height="376" alt="image" src="https://github.com/user-attachments/assets/37ac289e-c8cc-42ca-b3fc-fd7aba4950e3" />
+
+
+
+REGISTRAR LIBROS
+
+  Consola:
+  ![Imagen de WhatsApp 2025-10-17 a las 01 30 05_6bf15b55](https://github.com/user-attachments/assets/ea6fcbd9-e694-4548-bb97-777eb7c545f9)
+  
+  Firebase
+  <img width="809" height="156" alt="image" src="https://github.com/user-attachments/assets/b80b8865-b632-4243-a04d-dd97e378d17e" />
+
+
+MOSTRAR TODOS LOS LIBROS
+
+  Consola:
+  <img width="809" height="156" alt="image" src="https://github.com/user-attachments/assets/bc5401af-8438-4998-a6c9-de1ac864a88c" />
+
+  Firebase
+  <img width="790" height="402" alt="image" src="https://github.com/user-attachments/assets/3e97587b-0c73-4a33-85b0-e8aa6f25157b" />
+
+  
+
+ACTUALIZAR LIBRO
+
+  Consola:
+  <img width="1003" height="519" alt="image" src="https://github.com/user-attachments/assets/d7b1256f-9a9c-44e3-b003-f510880a685f" />
+
+  Firebase:
+  <img width="762" height="152" alt="image" src="https://github.com/user-attachments/assets/7e721883-6c98-41fa-8e64-3d1a6f2cf1a9" />
+
+
+ELIMINAR LIBRO
+
+  Consola:
+  <img width="1010" height="436" alt="image" src="https://github.com/user-attachments/assets/f835221b-bbe9-464e-b261-f97ec819ab1d" />
+
+  Firebase:
+  <img width="995" height="436" alt="image" src="https://github.com/user-attachments/assets/3a9d6c76-396f-4e28-b419-a6ab5a27380d" />
+
+
+
+#PARA USUARIOS FUNCIONA IGUAL
