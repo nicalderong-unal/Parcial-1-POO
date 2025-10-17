@@ -4,9 +4,7 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 cred = credentials.Certificate("credentials.json")
-firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://biblioteca--poo-default-rtdb.firebaseio.com/'
-})
+firebase_admin.initialize_app(cred, {"databaseURL": "https://biblioteca-poo-b12e9-default-rtdb.firebaseio.com/"})
 
 
 #Referencias a la base de datos
