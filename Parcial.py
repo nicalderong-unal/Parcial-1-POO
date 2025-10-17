@@ -175,7 +175,7 @@ class Biblioteca:
             return
         
         print(f"\nLibro a eliminar: {Libro.from_dict(libro_data).get_info()}")
-        confirmacion = input("¿Está seguro? (sí/no): ").lower()
+        confirmacion = input("¿Está seguro? (s/n): ").lower()
         
         if confirmacion == 's':
             ref_libros.child(isbn).delete()
@@ -238,7 +238,7 @@ class Biblioteca:
             return
         
         print(f"\nUsuario a eliminar: {Usuario.from_dict(usuario_data).get_info()}")
-        confirmacion = input("¿Está seguro? (sí/no): ").lower()
+        confirmacion = input("¿Está seguro? (s/n): ").lower()
         
         if confirmacion == 's':
             ref_usuarios.child(id_usuario).delete()
@@ -251,9 +251,9 @@ class Biblioteca:
     def mostrar_menu(self):
         "Método para mostrar el menú principal"
         while True:
-            print("\n==========================================================")
+            print("\n===============================================")
             print(f"| Bienvenido a {self.__nombre} |")
-            print("==========================================================")
+            print("===============================================")
             print("--- GESTIÓN DE LIBROS ---")
             print("1. Agregar nuevo libro")
             print("2. Ver todos los libros")
