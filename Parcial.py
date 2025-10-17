@@ -197,7 +197,7 @@ class Biblioteca:
         
         #guardado en direbase usando ID como clave única
         ref_usuarios.child(id_usuario).set(nuevo_usuario.to_dict())
-        print("✅ Se registró correctamente el nuevo usuario en Firebase.")
+        print("Se registró correctamente el nuevo usuario en Firebase.")
 
     def ver_usuarios(self):
         """READ - Ver todos los usuarios desde Firebase"""
@@ -295,7 +295,7 @@ class Biblioteca:
 
 #main (ya limpio)
 def main():
-    mi_biblioteca = Biblioteca("Biblioteca de Ingeniería - Virgilio Barco")
+    mi_biblioteca = Biblioteca("Biblioteca de Ingeniería - CyT")
     mi_biblioteca.mostrar_menu()
 
 
